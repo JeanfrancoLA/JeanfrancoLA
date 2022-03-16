@@ -1,8 +1,7 @@
-### Hi there 👋
+### 👋 Hi, I'm 💻 Jeanfranco 💻
 ![portada](https://user-images.githubusercontent.com/98365148/158645330-5d3005df-836e-4ab4-86de-1a6417eef07a.png)
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-
+- I'm a 23 year old guy who loves programming, I started a couple of years ago and hope to get better with time.
 ## My Tools
 <table>
   <tbody>
@@ -24,7 +23,6 @@
         <img height="64px" src="https://freepikpsd.com/file/2019/10/bootstrap-icon-png-2.png">
       </td>
     </tr>
-
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>React</strong>
@@ -48,7 +46,6 @@
   </tbody>
 </table>
 <hr>
-
 
 <!--
 **JeanfrancoLA/JeanfrancoLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
