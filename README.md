@@ -1,7 +1,6 @@
-### 👋 Hi, I'm 💻 Jeanfranco 💻
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 💻  hello programmer 👋 I'm   Jeanfranco 💻 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ![portada](https://user-images.githubusercontent.com/98365148/158645330-5d3005df-836e-4ab4-86de-1a6417eef07a.png)
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-- I'm a 23 year old guy who loves programming, I started a couple of years ago and hope to get better with time.
+
 ## My Tools
 <table>
   <tbody>
