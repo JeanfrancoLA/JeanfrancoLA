@@ -1,8 +1,8 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 💻  hello programmer 👋 I'm   Jeanfranco 💻 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 💻  hello programmer 👋 I'm   Jeanfranco 💻 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p>
 ![portada](https://user-images.githubusercontent.com/98365148/158645330-5d3005df-836e-4ab4-86de-1a6417eef07a.png)
 
 ## My Tools
-<table>
+<table align="center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
