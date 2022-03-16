@@ -1,4 +1,9 @@
 ### Hi there 👋
+![portada](https://user-images.githubusercontent.com/98365148/158645330-5d3005df-836e-4ab4-86de-1a6417eef07a.png)
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+
+
 
 <!--
 **JeanfrancoLA/JeanfrancoLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
